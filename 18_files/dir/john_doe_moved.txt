@@ -1,0 +1,11 @@
+
+Name: John Doe
+Age: 30
+Occupation: Software Developer
+Location: New York City
+Hobbies: Hiking, Reading, Traveling
+
+Hometown: Los Angeles
+Favorite Food: Sushi
+Pet: Dog
+Favorite Sport: Basketball
